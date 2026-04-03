@@ -1,0 +1,41 @@
+[
+  {
+    "doctorUsername": "priyas",
+    "score": 68,
+    "tier": "Silver",
+    "breakdown": {
+      "cancellationRate": 30,
+      "avgDelay": 18,
+      "patientNoShow": 0,
+      "rating": 14,
+      "prescriptionQuality": 6
+    },
+    "calculatedAt": "2026-04-03T09:49:41.596Z"
+  },
+  {
+    "doctorUsername": "navadeepgevin1",
+    "score": 86,
+    "tier": "Gold",
+    "breakdown": {
+      "cancellationRate": 28,
+      "avgDelay": 17,
+      "patientNoShow": 18,
+      "rating": 16,
+      "prescriptionQuality": 7
+    },
+    "calculatedAt": "2026-04-03T09:49:41.658Z"
+  },
+  {
+    "doctorUsername": "navadeep",
+    "score": 86,
+    "tier": "Gold",
+    "breakdown": {
+      "cancellationRate": 28,
+      "avgDelay": 17,
+      "patientNoShow": 18,
+      "rating": 16,
+      "prescriptionQuality": 7
+    },
+    "calculatedAt": "2026-04-03T09:49:41.691Z"
+  }
+]

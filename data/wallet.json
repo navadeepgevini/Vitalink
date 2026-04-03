@@ -1,0 +1,20 @@
+[
+  {
+    "id": "comp_1775197731189",
+    "username": "navadeepgevini@gmail.com",
+    "type": "credit",
+    "amount": 200,
+    "reason": "Wait-time compensation: 15 min delay on appointment apt_123",
+    "appointmentId": "apt_123",
+    "createdAt": "2026-04-03T06:28:51.189Z"
+  },
+  {
+    "id": "comp_1775197731191",
+    "username": "navadeepgevini@gmail.com",
+    "type": "credit",
+    "amount": 200,
+    "reason": "Wait-time compensation: 15 min delay on appointment apt_123",
+    "appointmentId": "apt_123",
+    "createdAt": "2026-04-03T06:28:51.191Z"
+  }
+]

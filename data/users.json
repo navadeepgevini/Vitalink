@@ -1,0 +1,86 @@
+[
+  {
+    "id": "user_1775174883306",
+    "username": "navadeepgevini@gmail.com",
+    "email": "navadeepgevini@gmail.com",
+    "password": "$2b$12$ckCgQqi9mFjHvAUGcQAe/O3Hz2rDtcWxYz6VX7d6bDVzSFkcafu.O",
+    "role": "patient",
+    "fullName": "deep",
+    "createdAt": "2026-04-03T00:08:03.306Z"
+  },
+  {
+    "id": "user_1775175253518",
+    "username": "johnp",
+    "email": "john@p.com",
+    "password": "$2b$12$lLGX1/6i.EBsSoY6HCSVoebMkhISQtU.jXSed3Zk8KH87UH4ErTPG",
+    "role": "patient",
+    "fullName": "John Patient",
+    "createdAt": "2026-04-03T00:14:13.518Z"
+  },
+  {
+    "id": "user_1775175866269",
+    "username": "priyas",
+    "email": "priya@s.com",
+    "password": "$2b$12$8csBxLLlTe6To53PaTU7uOwIwQ7nKD2JGnrt/Qc.TCfKCTFK5Qqe6",
+    "role": "doctor",
+    "fullName": "Dr. Priya Sharma",
+    "specialty": "Cardiology",
+    "createdAt": "2026-04-03T00:24:26.269Z"
+  },
+  {
+    "id": "user_1775194704463",
+    "username": "testpatient",
+    "email": "test@vitalink.health",
+    "password": "$2b$12$r0WKX30Bew7yMgZyp1JivuE0/btrOFx.q9eW.Im79z9WJ5jDUaQ56",
+    "role": "patient",
+    "fullName": "Test Patient",
+    "createdAt": "2026-04-03T05:38:24.463Z"
+  },
+  {
+    "id": "user_1775195043007",
+    "username": "navadeepgevin",
+    "email": "navadeeproy999@gmail.com",
+    "password": "$2b$12$P7pAMg/Rc5quAdVYGxvA1.Rd/otngsfYSBtL38JNR98jaFU9k6spy",
+    "role": "patient",
+    "fullName": "deep",
+    "createdAt": "2026-04-03T05:44:03.007Z"
+  },
+  {
+    "id": "user_1775195193092",
+    "username": "navadeepgevin1",
+    "email": "navadeeproy@gmail.com",
+    "password": "$2b$12$8UDWX00LIPCmM6gjBaSPKu2vWI8uOv7gvcTnGFAN/hMOg8MVaAfSW",
+    "role": "doctor",
+    "fullName": "deep",
+    "specialty": "",
+    "createdAt": "2026-04-03T05:46:33.092Z"
+  },
+  {
+    "id": "user_1775195356052",
+    "username": "navadeepgevin2",
+    "email": "99240040908@klu.ac.in",
+    "password": "$2b$12$xN9f7iajRXEQn2N17CZSK.RuhmemuMTw3E6lcO8nYqPnlkuXLGg9O",
+    "role": "admin",
+    "fullName": "deep23",
+    "createdAt": "2026-04-03T05:49:16.052Z"
+  },
+  {
+    "id": "user_1775197981481",
+    "username": "navadeep",
+    "email": "navadeepgevini123@gmail.com",
+    "password": "$2b$12$y6T.yMTx2EoeOwNB/2y5LuJ4Lwli9CTzyZaDVfR/L2/SF.f7/1lxq",
+    "role": "doctor",
+    "fullName": "deep",
+    "specialty": "",
+    "createdAt": "2026-04-03T06:33:01.481Z"
+  },
+  {
+    "id": "user_1775209664575",
+    "username": "navadeepgevinisdf",
+    "email": "navadeeproyhjkh@gmail.com",
+    "password": "$2b$12$hyHbTzd3fFyghFmDLSlb7eD8Kr82O627TgJsVbOGDG0cbA3XTJnNO",
+    "role": "admin",
+    "fullName": "mahammad sameer",
+    "createdAt": "2026-04-03T09:47:44.575Z"
+  }
+]
